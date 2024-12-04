@@ -1,3 +1,6 @@
+# Logic Behind Team Allocation
+  Direct allocation of the teams based on what the user entered
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
